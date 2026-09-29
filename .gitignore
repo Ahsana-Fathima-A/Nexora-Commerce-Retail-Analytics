@@ -1,0 +1,21 @@
+# Power BI temporary/cache files
+*.pbit
+*.tmp
+
+# Power BI backup files
+*.bak
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Python cache files
+__pycache__/
+*.pyc

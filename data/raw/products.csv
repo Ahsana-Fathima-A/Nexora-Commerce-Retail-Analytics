@@ -1,0 +1,151 @@
+Product_ID,Product_Name,Category,Subcategory,Supplier,Unit_Cost,Selling_Price
+P20001,Furniture Product 001,Home & Kitchen,Furniture,Everest Imports,26468.98,30600.35
+P20002,Accessories Product 002,Electronics,Accessories,Alpha Supplies,38409.37,43292.98
+P20003,Furniture Product 003,Home & Kitchen,Furniture,Bright Distributors,4851.97,5580.68
+P20004,Skincare Product 004,Beauty & Personal Care,Skincare,Bright Distributors,23882.79,30599.34
+P20005,Accessories Product 005,Sports & Fitness,Accessories,Delta Wholesale,18317.4,21890.27
+P20006,Accessories Product 006,Electronics,Accessories,Bright Distributors,36466.95,41490.43
+P20007,Laptops Product 007,Electronics,Laptops,Core Traders,12793.06,14458.33
+P20008,Smartphones Product 008,Electronics,Smartphones,Alpha Supplies,871.58,1056.25
+P20009,Smartphones Product 009,Electronics,Smartphones,Core Traders,8968.36,10670.33
+P20010,Fitness Equipment Product 010,Sports & Fitness,Fitness Equipment,Everest Imports,36987.39,42993.21
+P20011,Cookware Product 011,Home & Kitchen,Cookware,Delta Wholesale,35165.44,45557.29
+P20012,Haircare Product 012,Beauty & Personal Care,Haircare,Delta Wholesale,14858.44,18752.91
+P20013,Haircare Product 013,Beauty & Personal Care,Haircare,Alpha Supplies,20138.49,23227.39
+P20014,Personal Care Product 014,Beauty & Personal Care,Personal Care,Alpha Supplies,40846.54,51797.52
+P20015,Fitness Equipment Product 015,Sports & Fitness,Fitness Equipment,,39640.74,52888.47
+P20016,Accessories Product 016,Electronics,Accessories,Everest Imports,3819.97,4484.23
+P20017,Accessories Product 017,Electronics,Accessories,Alpha Supplies,6750.43,9018.59
+P20018,Accessories Product 018,Fashion,Accessories,Alpha Supplies,38844.49,48838.11
+P20019,Accessories Product 019,Fashion,Accessories,Core Traders,4911.97,5674.6
+P20020,Fitness Equipment Product 020,Sports & Fitness,Fitness Equipment,Core Traders,36656.31,49910.84
+P20021,Haircare Product 021,Beauty & Personal Care,Haircare,Delta Wholesale,9176.54,10304.3
+P20022,Laptops Product 022,Electronics,Laptops,Bright Distributors,15060.14,16986.78
+P20023,Fitness Equipment Product 023,Sports & Fitness,Fitness Equipment,Bright Distributors,37301.88,46545.03
+P20024,Personal Care Product 024,Beauty & Personal Care,Personal Care,Core Traders,28973.27,35549.8
+P20025,Cookware Product 025,Home & Kitchen,Cookware,Core Traders,15711.46,18504.52
+P20026,Accessories Product 026,Electronics,Accessories,Everest Imports,34731.33,45179.99
+P20027,Appliances Product 027,Home & Kitchen,Appliances,Alpha Supplies,16392.62,19728.36
+P20028,Accessories Product 028,Electronics,Accessories,Everest Imports,305.62,347.34
+P20029,Personal Care Product 029,beauty & personal care ,Personal Care,Everest Imports,28140.68,35282.73
+P20030,Laptops Product 030,Electronics,Laptops,Bright Distributors,19707.44,26312.4
+P20031,Clothing Product 031,Fashion,Clothing,Delta Wholesale,22799.44,27814.59
+P20032,Fitness Equipment Product 032,sports & fitness ,Fitness Equipment,Bright Distributors,7466.22,9955.3
+P20033,Appliances Product 033,Home & Kitchen,Appliances,Everest Imports,26037.11,29787.48
+P20034,Clothing Product 034,fashion ,Clothing,Alpha Supplies,29288.2,36039.67
+P20035,Furniture Product 035,Home & Kitchen,Furniture,Everest Imports,36559.53,49681.4
+P20036,Accessories Product 036,Electronics,Accessories,Delta Wholesale,27120.85,35534.26
+P20037,Fitness Equipment Product 037,Sports & Fitness,Fitness Equipment,,2782.44,3521.64
+P20038,Laptops Product 038,Electronics,Laptops,Alpha Supplies,34051.46,42535.66
+P20039,Furniture Product 039,Home & Kitchen,Furniture,Everest Imports,26811.37,36295.26
+P20040,Haircare Product 040,Beauty & Personal Care,Haircare,Core Traders,9114.96,10441.59
+P20041,Furniture Product 041,Home & Kitchen,Furniture,Bright Distributors,31156.3,41560.66
+P20042,Laptops Product 042,Electronics,Laptops,Everest Imports,38309.44,49297.64
+P20043,Smartphones Product 043,Electronics,Smartphones,Core Traders,37536.3,48878.74
+P20044,Haircare Product 044,Beauty & Personal Care,Haircare,Core Traders,4160.12,5483.58
+P20045,Accessories Product 045,Sports & Fitness,Accessories,Core Traders,8276.35,9778.66
+P20046,Fitness Equipment Product 046,Sports & Fitness,Fitness Equipment,Everest Imports,17910.62,21524.76
+P20047,Sportswear Product 047,Sports & Fitness,Sportswear,Core Traders,14643.92,17045.63
+P20048,Skincare Product 048,Beauty & Personal Care,Skincare,Alpha Supplies,13400.73,15077.33
+P20049,Clothing Product 049,Fashion,Clothing,Bright Distributors,21412.76,28261.28
+P20050,Haircare Product 050,Beauty & Personal Care,Haircare,Core Traders,38835.57,51779.91
+P20051,Furniture Product 051,Home & Kitchen,Furniture,Core Traders,18886.48,24739.61
+P20052,Haircare Product 052,Beauty & Personal Care,Haircare,Delta Wholesale,13133.11,14898.81
+P20053,Footwear Product 053,Fashion,Footwear,Delta Wholesale,30499.73,39304.61
+P20054,Fitness Equipment Product 054,Sports & Fitness,Fitness Equipment,Bright Distributors,36122.92,46244.11
+P20055,Fitness Equipment Product 055,Sports & Fitness,Fitness Equipment,Core Traders,7270.9,9756.26
+P20056,Furniture Product 056,Home & Kitchen,Furniture,Bright Distributors,28319.56,37664.41
+P20057,Accessories Product 057,Fashion,Accessories,Alpha Supplies,34891.29,41780.39
+P20058,Smartphones Product 058,Electronics,Smartphones,Everest Imports,3586.25,4181.18
+P20059,Accessories Product 059,electronics ,Accessories,Everest Imports,4405.59,5213.08
+P20060,Personal Care Product 060,Beauty & Personal Care,Personal Care,Bright Distributors,20814.07,28219.11
+P20061,Accessories Product 061,Electronics,Accessories,Core Traders,39272.84,51323.16
+P20062,Accessories Product 062,Sports & Fitness,Accessories,Delta Wholesale,1329.03,1606.48
+P20063,Cookware Product 063,Home & Kitchen,Cookware,Delta Wholesale,30785.09,35512.06
+P20064,Furniture Product 064,Home & Kitchen,Furniture,Core Traders,36098.68,49014.4
+P20065,Cookware Product 065,Home & Kitchen,Cookware,Everest Imports,16096.17,20981.67
+P20066,Fitness Equipment Product 066,Sports & Fitness,Fitness Equipment,Delta Wholesale,6882.13,8944.1
+P20067,Accessories Product 067,Fashion,Accessories,Alpha Supplies,1210.13,1402.78
+P20068,Furniture Product 068,home & kitchen ,Furniture,Bright Distributors,32017.19,41785.03
+P20069,Fitness Equipment Product 069,Sports & Fitness,Fitness Equipment,Delta Wholesale,28942.03,36007.2
+P20070,Appliances Product 070,Home & Kitchen,Appliances,Everest Imports,30452.14,40233.01
+P20071,Accessories Product 071,Sports & Fitness,Accessories,Bright Distributors,43500.05,58770.6
+P20072,Haircare Product 072,Beauty & Personal Care,Haircare,Alpha Supplies,35805.41,46569.84
+P20073,Cookware Product 073,Home & Kitchen,Cookware,Bright Distributors,25943.46,29870.22
+P20074,Laptops Product 074,Electronics,Laptops,Core Traders,7658.67,10211.1
+P20075,Appliances Product 075,Home & Kitchen,Appliances,Bright Distributors,36198.25,46325.05
+P20076,Sportswear Product 076,Sports & Fitness,Sportswear,Delta Wholesale,19888.1,22409.28
+P20077,Haircare Product 077,Beauty & Personal Care,Haircare,Alpha Supplies,14891.17,18306.7
+P20078,Accessories Product 078,Electronics,Accessories,Core Traders,21990.28,29942.5
+P20079,Accessories Product 079,Electronics,Accessories,Everest Imports,5114.75,6418.53
+P20080,Accessories Product 080,Fashion,Accessories,Core Traders,16714.52,23023.01
+P20081,Accessories Product 081,Sports & Fitness,Accessories,Everest Imports,38818.41,47905.19
+P20082,Cookware Product 082,Home & Kitchen,Cookware,Delta Wholesale,44986.38,56397.47
+P20083,Accessories Product 083,Fashion,Accessories,Alpha Supplies,7728.52,9772.93
+P20084,Sportswear Product 084,Sports & Fitness,Sportswear,Delta Wholesale,10372.71,13333.51
+P20085,Furniture Product 085,Home & Kitchen,Furniture,Delta Wholesale,42200.45,55890.77
+P20086,Footwear Product 086,Fashion,Footwear,Delta Wholesale,12474.08,14933.76
+P20087,Personal Care Product 087,Beauty & Personal Care,Personal Care,Alpha Supplies,3350.65,4001.77
+P20088,Fitness Equipment Product 088,Sports & Fitness,Fitness Equipment,Delta Wholesale,4394.96,5493.07
+P20089,Appliances Product 089,Home & Kitchen,Appliances,Alpha Supplies,31948.53,42022.13
+P20090,Accessories Product 090,Sports & Fitness,Accessories,Core Traders,2913.93,3521.16
+P20091,Appliances Product 091,Home & Kitchen,Appliances,Bright Distributors,13145.69,15079.66
+P20092,Cookware Product 092,Home & Kitchen,Cookware,Everest Imports,16470.59,19728.86
+P20093,Accessories Product 093,Electronics,Accessories,Bright Distributors,28643.84,38659.41
+P20094,Haircare Product 094,Beauty & Personal Care,Haircare,Alpha Supplies,20604.17,27076.62
+P20095,Personal Care Product 095,Beauty & Personal Care,Personal Care,Delta Wholesale,6783.96,9176.6
+P20096,Skincare Product 096,Beauty & Personal Care,Skincare,Everest Imports,7078.61,8281.59
+P20097,Furniture Product 097,Home & Kitchen,Furniture,Delta Wholesale,5014.26,6019.7
+P20098,Smartphones Product 098,Electronics,Smartphones,Alpha Supplies,24970.37,34381.16
+P20099,Furniture Product 099,Home & Kitchen,Furniture,Everest Imports,35753.22,43580.08
+P20100,Appliances Product 100,Home & Kitchen,Appliances,Everest Imports,26019.11,33358.06
+P20101,Accessories Product 101,electronics ,Accessories,Bright Distributors,37067.04,48612.59
+P20102,Smartphones Product 102,Electronics,Smartphones,Core Traders,25725.78,33288.84
+P20103,Furniture Product 103,Home & Kitchen,Furniture,,33629.81,38829.57
+P20104,Accessories Product 104,Sports & Fitness,Accessories,Alpha Supplies,9220.38,11977.57
+P20105,Clothing Product 105,Fashion,Clothing,Bright Distributors,38306.54,46979.45
+P20106,Personal Care Product 106,Beauty & Personal Care,Personal Care,Delta Wholesale,44100.09,51869.58
+P20107,Skincare Product 107,Beauty & Personal Care,Skincare,Bright Distributors,18897.29,23024.76
+P20108,Personal Care Product 108,Beauty & Personal Care,Personal Care,Bright Distributors,41880.74,50013.91
+P20109,Fitness Equipment Product 109,Sports & Fitness,Fitness Equipment,Everest Imports,21317.89,24913.81
+P20110,Sportswear Product 110,Sports & Fitness,Sportswear,Bright Distributors,23576.66,31661.69
+P20111,Footwear Product 111,Fashion,Footwear,Everest Imports,13855.77,18439.34
+P20112,Fitness Equipment Product 112,Sports & Fitness,Fitness Equipment,Bright Distributors,41031.19,46733.26
+P20113,Haircare Product 113,Beauty & Personal Care,Haircare,Bright Distributors,34100.0,40455.87
+P20114,Smartphones Product 114,Electronics,Smartphones,,8095.91,10332.74
+P20115,Accessories Product 115,Sports & Fitness,Accessories,Delta Wholesale,31825.72,38911.33
+P20116,Furniture Product 116,Home & Kitchen,Furniture,Alpha Supplies,2003.02,2716.62
+P20117,Cookware Product 117,Home & Kitchen,Cookware,Everest Imports,32950.92,39232.46
+P20118,Fitness Equipment Product 118,Sports & Fitness,Fitness Equipment,Everest Imports,22484.66,25345.3
+P20119,Fitness Equipment Product 119,Sports & Fitness,Fitness Equipment,Alpha Supplies,15432.9,19381.55
+P20120,Personal Care Product 120,beauty & personal care ,Personal Care,Bright Distributors,23395.76,27469.62
+P20121,Accessories Product 121,Sports & Fitness,Accessories,Alpha Supplies,35009.44,41930.95
+P20122,Personal Care Product 122,Beauty & Personal Care,Personal Care,Delta Wholesale,26223.35,31221.41
+P20123,Clothing Product 123,Fashion,Clothing,,19276.26,22629.44
+P20124,Skincare Product 124,Beauty & Personal Care,Skincare,Delta Wholesale,28577.1,35168.46
+P20125,Haircare Product 125,beauty & personal care ,Haircare,Everest Imports,971.25,1094.91
+P20126,Fitness Equipment Product 126,Sports & Fitness,Fitness Equipment,Delta Wholesale,21333.26,24909.54
+P20127,Cookware Product 127,Home & Kitchen,Cookware,Delta Wholesale,26430.63,32407.38
+P20128,Appliances Product 128,Home & Kitchen,Appliances,Core Traders,29535.29,40393.13
+P20129,Accessories Product 129,Sports & Fitness,Accessories,Delta Wholesale,23910.94,31675.26
+P20130,Clothing Product 130,Fashion,Clothing,Alpha Supplies,33948.58,46158.72
+P20131,Accessories Product 131,Electronics,Accessories,Everest Imports,9827.3,13120.48
+P20132,Accessories Product 132,Electronics,Accessories,Alpha Supplies,40772.04,49828.26
+P20133,Personal Care Product 133,Beauty & Personal Care,Personal Care,Bright Distributors,14293.27,19546.47
+P20134,Footwear Product 134,Fashion,Footwear,Core Traders,28336.57,34541.6
+P20135,Smartphones Product 135,Electronics,Smartphones,Delta Wholesale,35684.29,42791.29
+P20136,Sportswear Product 136,Sports & Fitness,Sportswear,Core Traders,8144.24,10273.41
+P20137,Sportswear Product 137,Sports & Fitness,Sportswear,Everest Imports,25587.99,34152.14
+P20138,Accessories Product 138,Fashion,Accessories,Core Traders,20701.97,27570.73
+P20139,Skincare Product 139,Beauty & Personal Care,Skincare,Delta Wholesale,14181.69,18005.01
+P20140,Accessories Product 140,Sports & Fitness,Accessories,Delta Wholesale,9579.16,11688.64
+P20141,Cookware Product 141,Home & Kitchen,Cookware,Everest Imports,38624.9,45428.94
+P20142,Sportswear Product 142,Sports & Fitness,Sportswear,Core Traders,36508.22,43574.26
+P20143,Accessories Product 143,Fashion,Accessories,Core Traders,1793.41,2059.88
+P20144,Personal Care Product 144,Beauty & Personal Care,Personal Care,Bright Distributors,33628.11,39954.85
+P20145,Accessories Product 145,Electronics,Accessories,Bright Distributors,29523.02,38432.82
+P20146,Personal Care Product 146,Beauty & Personal Care,Personal Care,Bright Distributors,15694.05,19515.22
+P20147,Smartphones Product 147,Electronics,Smartphones,Everest Imports,18318.58,25028.87
+P20148,Haircare Product 148,Beauty & Personal Care,Haircare,Everest Imports,14567.71,17010.19
+P20149,Accessories Product 149,Sports & Fitness,Accessories,Alpha Supplies,16610.28,21494.93
+P20150,Cookware Product 150,Home & Kitchen,Cookware,,31456.98,42789.51

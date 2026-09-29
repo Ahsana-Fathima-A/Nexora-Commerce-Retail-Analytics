@@ -1,0 +1,9 @@
+Table,Column/Area,Issue,Cleaning Action
+Customers,City,Missing values introduced intentionally,Replaced missing values with Unknown
+Customers,Customer_Segment,Missing values introduced intentionally,Replaced missing values with Unknown
+Customers,City,Trailing spaces/inconsistent formatting introduced,Trimmed text
+Products,Supplier,Missing values introduced intentionally,Replaced missing values with Unknown
+Products,Category,Inconsistent capitalization/spacing introduced,Standardized category text
+Order_Details,Quantity,A few zero-quantity records introduced,Removed 8 zero-quantity rows
+Order_Details,Discount,A few 50% discount outliers introduced,Retained for analysis
+Order_Details,Rows,20 duplicate detail rows introduced,Removed exact duplicate rows
